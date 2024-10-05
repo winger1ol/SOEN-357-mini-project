@@ -16,5 +16,9 @@ Understanding the challenge
 ==
 This application integrates many functions of other applications, so this application needs to be concise and clear enough for users to use easily. Secondly, the policies and customs of different countries are different, and you need to study these policies carefully to avoid mistakes.
 
+Solution
+==
+Policies in countries around the world change very quickly, so we need to provide a user feedback center to allow users to report policy changes in a certain place so that we can update in a timely manner.
+
 Research and analysis
 ==
