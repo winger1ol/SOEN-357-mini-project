@@ -22,8 +22,8 @@ Policies in countries around the world change very quickly, so we need to provid
 
 Research and analysis
 ==
-Study subject 1：booking.com 
-![image](https://github.com/user-attachments/assets/f6def0ff-bdb7-408e-8b17-95428470110b)
+_Study subject 1：booking.com 
+_![image](https://github.com/user-attachments/assets/f6def0ff-bdb7-408e-8b17-95428470110b)
 ![image](https://github.com/user-attachments/assets/8a8e9b8e-592b-4ef2-8c73-68f490a9bc68)
 
 Good Point: 
@@ -33,8 +33,8 @@ Improvement:
 Different countries have different languages. I hope to add a translation option to make it easier for users to communicate at their destination.
 
 
-Study subject 2: expedia.com
-![image](https://github.com/user-attachments/assets/8295cead-25f1-4663-9722-decf86c62f77)
+_Study subject 2: expedia.com
+_![image](https://github.com/user-attachments/assets/8295cead-25f1-4663-9722-decf86c62f77)
 
 Improvement:
 The commercialization of the application is very important, as it involves the company's profits and future development, but too many advertisements make users feel uncomfortable. The commercialization of the application is very important, as it involves the company's profits and future development, but too many advertisements make users feel uncomfortable. In our application, ad recommendations can be integrated into a unified section instead of appearing directly on the main page for users to see.
