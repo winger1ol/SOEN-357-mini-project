@@ -22,3 +22,6 @@ Policies in countries around the world change very quickly, so we need to provid
 
 Research and analysis
 ==
+Study subjects：booking.com expedia.com
+![image](https://github.com/user-attachments/assets/f6def0ff-bdb7-408e-8b17-95428470110b)
+
