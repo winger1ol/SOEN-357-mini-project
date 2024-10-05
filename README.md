@@ -27,8 +27,10 @@ Study subjects：booking.com
 ![image](https://github.com/user-attachments/assets/2a13e927-7404-48c1-82bc-28459b6bfc18)
 
 Good Point: 
+It has the functions of booking air tickets, hotels, renting cars, and taking taxis. The web design is very beautiful and simple, and users can use it easily. It also introduces policies of different countries. It has the functions of booking air tickets, hotels, car rentals, and taxis. The web design is very beautiful and concise, and users can use it easily. It also introduces policies of different countries. It basically meets our travel app needs.
 
-
+Improvement:
+Different countries have different languages. I hope to add a translation option to make it easier for users to communicate at their destination.
 
 
 
