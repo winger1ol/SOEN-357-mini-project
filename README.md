@@ -24,7 +24,9 @@ Research and analysis
 ==
 Study subjects：booking.com 
 ![image](https://github.com/user-attachments/assets/f6def0ff-bdb7-408e-8b17-95428470110b)
-![image](https://github.com/user-attachments/assets/bce4d20c-1dca-41c7-b678-3fcfbff9fffe)
+![image](https://github.com/user-attachments/assets/2a13e927-7404-48c1-82bc-28459b6bfc18)
+
+Good Point: 
 
 
 
