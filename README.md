@@ -39,4 +39,6 @@ Study subject 2: expedia.com
 Improvement:
 The commercialization of the application is very important, as it involves the company's profits and future development, but too many advertisements make users feel uncomfortable. The commercialization of the application is very important, as it involves the company's profits and future development, but too many advertisements make users feel uncomfortable. In our application, ad recommendations can be integrated into a unified section instead of appearing directly on the main page for users to see.
 
+Main user goals
+==
 
