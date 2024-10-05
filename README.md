@@ -1,5 +1,4 @@
-**Travel app
-**
+Travel app
 ==
 
 SOEN 357 mini project Fall 2024
