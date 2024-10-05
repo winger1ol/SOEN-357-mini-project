@@ -1,4 +1,5 @@
-Travel app
+**Travel app
+**
 ==
 
 SOEN 357 mini project Fall 2024
@@ -15,3 +16,6 @@ This is an application designed for global travelers. When traveling during glob
 Understanding the challenge
 ==
 This application integrates many functions of other applications, so this application needs to be concise and clear enough for users to use easily. Secondly, the policies and customs of different countries are different, and you need to study these policies carefully to avoid mistakes.
+
+Research and analysis
+==
