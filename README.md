@@ -64,9 +64,9 @@ Main function I need to achieve. They include:
 
   ·Places to visit
 
-  ·Check visa status at your destination
+  ·Check visa status at user's destination
 
-  ·Emergency Alert at your destination 
+  ·Emergency Alert at user's destination 
 
 User personas
 ==
