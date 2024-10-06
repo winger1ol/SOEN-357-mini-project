@@ -57,7 +57,7 @@ Main function I need to achieve. They include:
 
   ·renting cars
 
-  ·Finding restaurant/hospital/activities
+  ·Finding restaurants/hospitals/activities
 
   ·Places to visit
 
