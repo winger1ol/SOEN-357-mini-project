@@ -92,6 +92,7 @@ Next, I scripted a typical daily using routine for my persona. This process help
 
 User Flow Diagram 
 ==
+Now I have an idea of how the app will run. Mapping the basic flow of the app let me to figure each step on the path the users will take throughout the solution.
 ![alt text](<flow chart.png>)
 
 
