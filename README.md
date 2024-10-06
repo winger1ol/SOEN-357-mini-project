@@ -87,6 +87,8 @@ User Journey
 Next, I scripted a typical daily using routine for my persona. This process helped me decide how the app’s user experience might be designed to fit in with a navigation routine.
 ![image](https://github.com/user-attachments/assets/846d4857-5e51-49f8-8d5a-fe8167072642)
 
+User Flow Diagram 
+==
 
 
 
