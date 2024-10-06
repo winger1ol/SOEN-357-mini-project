@@ -71,6 +71,7 @@ We created 2 user personas that would represent potential users. This will allow
 
 The first persona is Brandon D. Wells. He represents users who wants to have family trip in a different country but nobody in his family can speak local language.
 
-![image](https://github.com/user-attachments/assets/209b3108-1a1b-43aa-a9f5-3026447af6b0)
+![image](https://github.com/user-attachments/assets/6b64d811-1515-45d2-a3d8-2ee1569d15e2)
 
+Second persona is 
 
