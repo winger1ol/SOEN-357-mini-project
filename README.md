@@ -48,6 +48,7 @@ Based on the research on existing applications, I narrowed down the main user go
   ·No text info in a same time  
 
   ·Contrasting color
+  
 
 Main function I need to achieve. They include:
 
