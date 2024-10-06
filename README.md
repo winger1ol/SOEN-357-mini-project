@@ -1,4 +1,4 @@
-Travel app
+![sketch1](https://github.com/user-attachments/assets/ee3d961b-0e3c-4c5a-afd5-6ddb5b4ca56a)Travel app
 ==
 
 SOEN 357 mini project Fall 2024
@@ -99,6 +99,19 @@ Now I have an idea of how the app will run. Mapping the basic flow of the app le
 Sketches
 ==
 After deciding on the features and general concepts for the application, I created sketches to outline the layout of the pages, sections, and tabs. Although these sketches were not the final version, they were instrumental in shaping the final design.
+![sketch1](https://github.com/user-attachments/assets/34853e09-9dfc-4847-bdd5-c821add445f8)
+![sketch2](https://github.com/user-attachments/assets/7a3f02bc-c575-43c6-89da-a6b4ee1a7587)
+![sketch3](https://github.com/user-attachments/assets/986436d6-ba6b-4de4-a894-150c567b3e7b)
+![sketch4](https://github.com/user-attachments/assets/e7c0e67d-be61-48cf-8695-cc1033572928)
+![sketch5](https://github.com/user-attachments/assets/fe76387e-c010-4537-b033-24d9e1dd07de)
+![sketch6](https://github.com/user-attachments/assets/12d2a087-6e97-4b1e-9e5f-1cc09e5e8359)
+![sketch7](https://github.com/user-attachments/assets/5e6f2908-2886-449a-9932-1fc5686ee930)
+![sketch8](https://github.com/user-attachments/assets/d54a8f2f-176a-4849-99f6-222a8fbf9e07)
+![sketch9](https://github.com/user-attachments/assets/4df9d013-499f-4e75-b377-1e12861e0850)
+![sketch10](https://github.com/user-attachments/assets/b5949a14-a5df-40dc-8174-98a7e62a4a45)
+![sketch11](https://github.com/user-attachments/assets/505099b5-b95e-4f49-8023-be74a79e54c7)
+![sketch12](https://github.com/user-attachments/assets/8f92326a-ecf3-4f4f-90c0-cfde1914369d)
+
 
 
 
