@@ -52,6 +52,7 @@ Based on the research on existing applications, I narrowed down the main user go
 
 
 Main function I need to achieve. They include:
+==
 
   ·Booking tickets/hotels
 
