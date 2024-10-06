@@ -37,7 +37,7 @@ Study subject 2: expedia.com
 ![image](https://github.com/user-attachments/assets/8295cead-25f1-4663-9722-decf86c62f77)
 
 Improvement:
-The commercialization of the application is very important, as it involves the company's profits and future development, but too many advertisements make users feel uncomfortable. The commercialization of the application is very important, as it involves the company's profits and future development, but too many advertisements make users feel uncomfortable. In our application, ad recommendations can be integrated into a unified section instead of appearing directly on the main page for users to see.
+The commercialization of the application is very important, as it involves the company's profits and future development, but too many advertisements make users feel uncomfortable. In our application, ad recommendations can be integrated into a unified section instead of appearing directly on the main page for users to see.
 
 Main user goals
 ==
