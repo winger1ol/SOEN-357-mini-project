@@ -73,5 +73,9 @@ The first persona is Brandon D. Wells. He represents users who wants to have fam
 
 ![image](https://github.com/user-attachments/assets/6b64d811-1515-45d2-a3d8-2ee1569d15e2)
 
-Second persona is 
+Second persona is Rachel McAdams. She is a traveler, Youtuber. She wants to travel around the world and record the moments during her travel.
+
+![image](https://github.com/user-attachments/assets/1588de56-1b6d-4493-bd90-dbc313a78d08)
+
+
 
