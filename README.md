@@ -80,10 +80,11 @@ Second persona is Rachel McAdams. She is a traveler, Youtuber. She wants to trav
 ![image](https://github.com/user-attachments/assets/1588de56-1b6d-4493-bd90-dbc313a78d08)
 
 
-Uer Journey
+User Journey
 ==
 
 Next, I scripted a typical daily using routine for my persona. This process helped me decide how the app’s user experience might be designed to fit in with a navigation routine.
+![image](https://github.com/user-attachments/assets/846d4857-5e51-49f8-8d5a-fe8167072642)
 
 
 
