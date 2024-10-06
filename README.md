@@ -69,6 +69,8 @@ User personas
 ==
 We created 2 user personas that would represent potential users. This will allow us to better understand our users’ expectations, concerns and motivations.
 
+The first persona is Brandon D. Wells. He represents users who wants to have family trip in a different country but nobody in his family can speak local language.
+
 ![image](https://github.com/user-attachments/assets/209b3108-1a1b-43aa-a9f5-3026447af6b0)
 
 
