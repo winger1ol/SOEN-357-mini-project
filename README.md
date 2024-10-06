@@ -43,8 +43,4 @@ Main user goals
 ==
 Based on the research on existing applications, I narrowed down the main user goals. They include:
   ·Simple navigation
-  ·
-  ·
-  ·
-  ·
-
+  ·No text info in a same time
