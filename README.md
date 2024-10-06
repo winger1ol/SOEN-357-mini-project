@@ -100,14 +100,7 @@ Sketches
 ==
 After deciding on the features and general concepts for the application, I created sketches to outline the layout of the pages, sections, and tabs. Although these sketches were not the final version, they were instrumental in shaping the final design.
 
-![image](https://github.com/user-attachments/assets/b766917e-59c0-41ba-bd2d-ce3db06a5a76)
-![image](https://github.com/user-attachments/assets/32066f9d-01fa-4630-9c8f-3e8927655b06)
-![image](https://github.com/user-attachments/assets/6b356104-81f7-4982-a8de-914b57cebbc1)
-![image](https://github.com/user-attachments/assets/01fc1c64-3987-4769-8263-019b6388b700)
-![image](https://github.com/user-attachments/assets/5923548d-e122-404b-8855-23f85073e09d)
-![image](https://github.com/user-attachments/assets/fc86d6a2-fb3f-425e-a76b-c217f7cb2462)
-![image](https://github.com/user-attachments/assets/109f55d9-b018-4547-8828-0f680a06b7e0)
-![image](https://github.com/user-attachments/assets/2eaa31c5-2369-4dbc-ba27-38f71f26df35)
+
 
 Wireframes
 ==
