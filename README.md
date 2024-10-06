@@ -46,3 +46,24 @@ Based on the research on existing applications, I narrowed down the main user go
   ·Simple navigation  
   
   ·No text info in a same time  
+
+  ·Contrasting color
+
+Main function I need to achieve. They include:
+
+  ·Booking tickets/hotels
+
+  ·Renting cars
+
+  ·renting cars
+
+  ·Finding restaurant/hospital/activities
+
+  ·Places to visit
+
+  ·Check visa status at your destination
+
+  ·Emergency Alert at your destination 
+
+  
+
