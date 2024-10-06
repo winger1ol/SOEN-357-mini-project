@@ -57,7 +57,7 @@ Main function I need to achieve. They include:
 
   ·renting cars
 
-  ·Finding restaurant/hospital/activities
+  ·Finding restaurants/hospitals/activities
 
   ·Places to visit
 
@@ -65,5 +65,13 @@ Main function I need to achieve. They include:
 
   ·Emergency Alert at your destination 
 
-  
+User personas
+==
+We created 2 user personas that would represent potential users. This will allow us to better understand our users’ expectations, concerns and motivations.
+
+The first persona is Brandon D. Wells. He represents users who wants to have family trip in a different country but nobody in his family can speak local language.
+
+![image](https://github.com/user-attachments/assets/6b64d811-1515-45d2-a3d8-2ee1569d15e2)
+
+Second persona is 
 
