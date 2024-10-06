@@ -1,4 +1,4 @@
-![sketch1](https://github.com/user-attachments/assets/ee3d961b-0e3c-4c5a-afd5-6ddb5b4ca56a)Travel app
+Travel app
 ==
 
 SOEN 357 mini project Fall 2024
