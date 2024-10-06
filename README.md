@@ -42,8 +42,10 @@ Too much text at once.
 
 The commercialization of the application is very important, as it involves the company's profits and future development, but too many advertisements make users feel uncomfortable. In our application, ad recommendations can be integrated into a unified section instead of appearing directly on the main page for users to see.
 
-Main user goals
+Task analysis
 ==
+Main user goals
+-
 Based on the research on existing applications, I narrowed down the main user goals. They include:
 
   ·Simple navigation  
@@ -55,7 +57,7 @@ Based on the research on existing applications, I narrowed down the main user go
 
 
 Main function I need to achieve. They include:
-==
+-
 
   ·Booking tickets/hotels
 
