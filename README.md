@@ -93,5 +93,17 @@ Next, I write a typical daily using routine for my persona. This process helped 
 User Flow Diagram 
 ==
 Now I have an idea of how the app will run. Mapping the basic flow of the app let me to figure each step on the path the users will take throughout the solution.
-![alt text](<flow chart.png>)
+![flow chart](https://github.com/user-attachments/assets/d9738b51-08fe-496a-b36c-abe73436f33d)
+
+
+Sketches
+==
+After deciding on the features and general concepts for the application, I created sketches to outline the layout of the pages, sections, and tabs. Although these sketches were not the final version, they were instrumental in shaping the final design.
+
+
+
+
+
+
+
 
