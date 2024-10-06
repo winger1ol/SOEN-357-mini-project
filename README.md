@@ -14,11 +14,11 @@ This is an application designed for global travelers. When traveling during glob
 
 Understanding the challenge
 ==
-This application integrates many functions of other applications, so this application needs to be concise and clear enough for users to use easily. Secondly, the policies and customs of different countries are different, and you need to study these policies carefully to avoid mistakes.
+This application integrates many functions of other applications, so this application needs to be concise and clear enough for users to use easily. 
 
 Solution
 ==
-Policies in countries around the world change very quickly, so we need to provide a user feedback center to allow users to report policy changes in a certain place so that we can update in a timely manner.
+Develop this software as a mobile app, with a hierarchical structure and colors to guide users on how to use the software and avoid too many words at once.
 
 Research and analysis
 ==
