@@ -92,7 +92,7 @@ Next, I scripted a typical daily using routine for my persona. This process help
 
 User Flow Diagram 
 ==
-
+![alt text](<flow chart.png>)
 
 
 
