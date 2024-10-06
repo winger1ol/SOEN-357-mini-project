@@ -69,6 +69,6 @@ User personas
 ==
 We created 2 user personas that would represent potential users. This will allow us to better understand our users’ expectations, concerns and motivations.
 
-![image](https://github.com/user-attachments/assets/443ea37a-360c-4e8b-8c6f-1d797684f3e5)
+![image](https://github.com/user-attachments/assets/209b3108-1a1b-43aa-a9f5-3026447af6b0)
 
 
