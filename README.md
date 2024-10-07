@@ -120,6 +120,7 @@ After deciding on the features and general concepts for the application, I creat
 Wireframes
 ==
 Based on the sketches, core functionality was presented as a simple grayscale prototype. This allowed the team to focus on the functionality of the application rather than its aesthetics. Early prototypes of Travel.com ensured that users could navigate the system seamlessly and intuitively.
+![image](https://github.com/user-attachments/assets/05a5bcf5-5bd4-4c3b-aed1-fecc6516f9ae)
 
 
 
