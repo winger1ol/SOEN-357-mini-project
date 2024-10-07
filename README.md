@@ -1,6 +1,9 @@
 TripFellow Inc
 ==
 
+![image](https://github.com/user-attachments/assets/cb35b1de-040a-401e-b1ab-1c02073ede1c)
+-
+
 SOEN 357 mini project Fall 2024
 -
 
