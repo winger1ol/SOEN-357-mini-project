@@ -147,6 +147,8 @@ Pink   FF2D55
 
 Greend 70DEB1
 
+Mixed 6750A4 (5%)+FFFBFE (100%)
+
 Mint   
 
 
