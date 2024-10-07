@@ -54,7 +54,7 @@ Based on the research on existing applications, I narrowed down the main user go
 
   ·Simple navigation  
   
-  ·No text info in a same time  
+  ·No too much text info in a same time  
 
   ·Contrasting color
 
@@ -67,7 +67,7 @@ Main function I need to achieve. They include:
 
   ·renting cars
 
-  ·renting cars
+  ·taxi
 
   ·Finding restaurants/hospitals/activities
 
