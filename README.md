@@ -1,13 +1,14 @@
 SOEN 357 mini project Fall 2024
 ==
 
+TripFellow Inc
+-
+
 Designer: Rongmin Gan 
 -
 SID: 40068816
 -
 
-TripFellow Inc
---
 ![image](https://github.com/user-attachments/assets/1d4ab87c-c77d-4460-addf-683cd19637f4)
 
 
