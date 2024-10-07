@@ -158,6 +158,7 @@ Use contrasting colors, such as white and black, to enhance visual effects, and 
 Typography
 ==
 The font is inter, this font is very neat and clean, users can see it clearly, and bold is used on the current page to tell people who are looking at this prototype.
+
 ![image](https://github.com/user-attachments/assets/295486f2-0cf0-4996-8812-398c5b2f87c1)
 
 
