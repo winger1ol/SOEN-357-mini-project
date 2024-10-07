@@ -126,6 +126,27 @@ Based on the sketches, core functionality was presented as a simple grayscale pr
 ![image](https://github.com/user-attachments/assets/3332594d-e858-4a22-bda4-dc8499332328)
 
 
+Visual Design
+==
+Color 
+-
+White  FFFFFF
+
+Black  000000
+
+Grey   D9D9D9
+
+Orange FF9500
+
+Blue   007AFF
+
+Mixed  26591B
+
+Pink   FF2D55
+
+Greend 70DEB1
+
+Mint   
 
 
 
