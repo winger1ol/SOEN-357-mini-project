@@ -22,7 +22,7 @@ This application integrates many functions of other applications, so this applic
 
 Solution
 ==
-Develop this software as a mobile app, with a hierarchical structure and colors to guide users on how to use the software and avoid too many words at once.
+Develop this application with a hierarchical structure and colors to guide users on how to use the software and avoid too many words at once.
 
 Research and analysis
 ==
