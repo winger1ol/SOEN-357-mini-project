@@ -130,6 +130,7 @@ Visual Design
 ==
 Color 
 -
+Yellow FFCC00
 White  FFFFFF
 
 Black  000000
