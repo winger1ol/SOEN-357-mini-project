@@ -161,6 +161,10 @@ The font is inter, this font is very neat and clean, users can see it clearly, a
 
 ![image](https://github.com/user-attachments/assets/295486f2-0cf0-4996-8812-398c5b2f87c1)
 
+Conclusion
+==
+In this project, I first understood the requirements of the project, then created personas and user journeys to understand what users would think. I also considered myself as a user of the app to think about what elements I needed to add. Sketching made my steps clearer, and creating wireframes made the final design easier.
+
 
 
 
