@@ -132,6 +132,7 @@ Visual Design
 Color 
 -
 Yellow FFCC00
+
 White  FFFFFF
 
 Black  000000
@@ -141,8 +142,6 @@ Grey   D9D9D9
 Orange FF9500
 
 Blue   007AFF
-
-Mixed  26591B
 
 Pink   FF2D55
 
