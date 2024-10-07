@@ -1,4 +1,4 @@
-Travel app
+TripFellow Inc
 ==
 
 SOEN 357 mini project Fall 2024
@@ -10,7 +10,7 @@ SID: 40068816
 
 Introduction:
 ==
-This is an application designed for global travelers. When traveling during global conflicts or natural disasters, the problem faced by travelers is that travelers do not understand the rules and regulations of the destination country. So this app can plan routes or book flights/hotels, rent cars, find activities, places to visit, and can also help check visa requirements and restrictions at the destination and other information that can help improve the personal/group travel experience. In the event of conflict/disaster, some key information that travelers need to consider include: areas to avoid, local laws and culture, health restrictions and hazards, travel restrictions, climate, etc. There may be red zones (highest alert areas) and orange zones. Certain non-essential services may not be available in these areas. Such information should be specified in the destination country.
+This is an application designed for global travelers. When traveling during global conflicts or natural disasters, the problem faced by travelers is that travelers do not understand the rules and regulations of the destination country. So this app can plan routes or book flights/hotels, request taxi, rent cars, find activities, places to visit, and can also help check visa requirements and restrictions at the destination and other information that can help improve the personal/group travel experience. In the event of conflict/disaster, some key information that travelers need to consider include: areas to avoid, local laws and culture, health restrictions and hazards, travel restrictions, climate, etc. There may be red zones (highest alert areas) and orange zones. Certain non-essential services may not be available in these areas. Such information should be specified in the destination country.
 
 Understanding the challenge
 ==
@@ -59,9 +59,9 @@ Based on the research on existing applications, I narrowed down the main user go
 Main function I need to achieve. They include:
 -
 
-  ·Booking tickets/hotels
+  ·booking tickets/hotels
 
-  ·Renting cars
+  ·renting cars
 
   ·renting cars
 
