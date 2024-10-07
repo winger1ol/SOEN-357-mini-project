@@ -42,9 +42,9 @@ Study subject 2: expedia.com
 
 Improvement:
 
-Too much text at once.
+Too much text at once. The color is monotonous.
+Whenthere is a lot of text and the color is monotonous, users may miss some information.
 
-The commercialization of the application is very important, as it involves the company's profits and future development, but too many advertisements make users feel uncomfortable. In our application, ad recommendations can be integrated into a unified section instead of appearing directly on the main page for users to see.
 
 Task analysis
 ==
