@@ -179,6 +179,6 @@ In this project, I first understood the requirements of the project, then create
 
 Disclaimer
 ==
-Some logos and commercial logos are from internet. for example, cars brand and car images
+Some logos ,widget, commercial logos are from internet. for example, cars brand and car images
 
 
