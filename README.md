@@ -131,21 +131,23 @@ Visual Design
 ==
 Color 
 -
-Yellow FFCC00
+Mixed  FFFBFE 100% 
+
+Mixed  6750A4 5%
+
+Orange FF9500
+
+Pink   FF2D55
+
+Blue   007AFF
+
+Yellow FFCCOO
 
 White  FFFFFF
 
 Black  000000
 
-Orange FF9500
-
-Blue   007AFF
-
-Pink   FF2D55
-
-Greend 70DEB1
-
-Mixed 6750A4 (5%)+FFFBFE (100%)
+Grey   555555
 
 Mint   
 
@@ -163,6 +165,8 @@ Conclusion
 ==
 In this project, I first understood the requirements of the project, then created personas and user journeys to understand what users would think. I also considered myself as a user of the app to think about what elements I needed to add. Sketching made my steps clearer, and creating wireframes made the final design easier.
 
-
+Notice
+==
+Some logos and commercial logos are from internet.
 
 
