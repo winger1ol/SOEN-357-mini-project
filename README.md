@@ -110,6 +110,10 @@ Storyboard
 ==
 I developed a storyboard for our persona, Brand D Wells . It illustrates the user experience with the app. This approach effectively showcases how the product fits into a broader narrative, providing insight into its real-world application. It's a valuable and cost-effective method for capturing, communicating, and exploring the app's context and usability.
 
+![image](https://github.com/user-attachments/assets/1ead257d-99c3-4467-9eea-3bec07525680)
+![image](https://github.com/user-attachments/assets/e4f0818d-1743-4a00-a14d-0a24a58457ce)
+
+
 
 
 Sketches
