@@ -99,10 +99,10 @@ User Journey
 Next, I write a typical daily using routine for my persona. This process helped me decide how the app’s user experience might be designed to fit in with a navigation routine.
 ![image](https://github.com/user-attachments/assets/aba01d9b-6bb5-4320-9b49-2de9716b119e)
 
-User Flow Diagram 
+User Flow Chart 
 ==
 Now I have an idea of how the app will run. Mapping the basic flow of the app let me to figure each step on the path the users will take throughout the solution.
-![flowchart-357mini - Copy](https://github.com/user-attachments/assets/9114a8c7-a5e7-4868-bee6-f35e945e44d4)
+![flowchart-357mini - Copy](https://github.com/user-attachments/assets/33cf0c35-e0b7-4c95-a8b1-81e3615bf146)
 
 
 
