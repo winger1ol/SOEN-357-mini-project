@@ -7,7 +7,6 @@ TripFellow Inc
 Designer: Rongmin Gan 
 
 SID: 40068816
-123
 
 
 ![image](https://github.com/user-attachments/assets/1d4ab87c-c77d-4460-addf-683cd19637f4)
