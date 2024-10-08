@@ -102,7 +102,7 @@ Next, I write a typical daily using routine for my persona. This process helped 
 User Flow Diagram 
 ==
 Now I have an idea of how the app will run. Mapping the basic flow of the app let me to figure each step on the path the users will take throughout the solution.
-![flow chart](https://github.com/user-attachments/assets/d9738b51-08fe-496a-b36c-abe73436f33d)
+![flowchart-357mini - Copy](https://github.com/user-attachments/assets/cc12d65f-127c-46a6-bc5f-048bf59a545a)
 
 Storyboard
 ==
