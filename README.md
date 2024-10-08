@@ -131,6 +131,8 @@ Visual Design
 ==
 Color 
 -
+Mixed  26591B 36%
+
 Mixed  FFFBFE 100% 
 
 Mixed  6750A4 5%
@@ -153,7 +155,7 @@ Mint
 
 Use contrasting colors, such as white and black, to enhance visual effects, and bright colors, such as mint, blue, orange, and pink, to draw users’ attention to the button.
 
-![image](https://github.com/user-attachments/assets/808b85ee-80c8-4946-ac7e-6d0384500dbf)
+![image](https://github.com/user-attachments/assets/3b234b7a-ba05-412f-aebb-a0812d2aac12)
 
 Typography
 ==
