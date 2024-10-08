@@ -181,6 +181,10 @@ Conclusion
 ==
 In this project, I first understood the requirements of the project, then created personas and user journeys to understand what users would think. I also considered myself as a user of the app to think about what elements I needed to add. Sketching made my steps clearer, and creating wireframes made the final design easier.
 
+Full PDF of miniproject
+==
+see moodle or github main page named "357-miniproject.pdf"
+
 Disclaimer
 ==
 Some logos ,widget, commercial logos are from internet. for example, cars brand and car images
