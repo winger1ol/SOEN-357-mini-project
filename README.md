@@ -94,7 +94,7 @@ User Journey
 ==
 
 Next, I write a typical daily using routine for my persona. This process helped me decide how the app’s user experience might be designed to fit in with a navigation routine.
-![image](https://github.com/user-attachments/assets/846d4857-5e51-49f8-8d5a-fe8167072642)
+![image](https://github.com/user-attachments/assets/aba01d9b-6bb5-4320-9b49-2de9716b119e)
 
 User Flow Diagram 
 ==
