@@ -106,8 +106,7 @@ Now I have an idea of how the app will run. Mapping the basic flow of the app le
 
 Storyboard
 ==
-
-I created a storyboard describing my user’s experience with the app. This is a great tool to explore how the product will be used in a larger context, as if it was a part of a bigger narrative. It’s an effective and inexpensive way to capture, relate, and explore the app in a real world setting. I created a storyboard describing my user’s experience with the app. This study helps understand the circumstances and the larger context in which the app will be used.
+I developed a storyboard that illustrates the user experience with the app. This approach effectively showcases how the product fits into a broader narrative, providing insight into its real-world application. It's a valuable and cost-effective method for capturing, communicating, and exploring the app's context and usability.
 
 
 
