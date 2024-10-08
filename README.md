@@ -57,11 +57,14 @@ Based on the research on existing applications, I narrowed down the main user go
   ·No too much text info in a same time  
 
   ·Contrasting color
+  
+  ·Easy to use, intuitive, straightforward
 
 
 
 Main function I need to achieve. They include:
 -
+  ·weather 
 
   ·booking tickets/hotels
 
