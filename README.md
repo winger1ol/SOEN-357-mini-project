@@ -169,8 +169,11 @@ Grey   555555
 
 Mint   
 
+
 Use contrasting colors, such as white and black, to enhance visual effects, and bright colors, such as mint, blue, orange, and pink, to draw users’ attention to the button.
 
+
+![image](https://github.com/user-attachments/assets/f9148a64-9382-4278-8f73-c4d8eaef229d)
 
 
 Typography
