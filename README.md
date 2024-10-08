@@ -104,6 +104,12 @@ User Flow Diagram
 Now I have an idea of how the app will run. Mapping the basic flow of the app let me to figure each step on the path the users will take throughout the solution.
 ![flow chart](https://github.com/user-attachments/assets/d9738b51-08fe-496a-b36c-abe73436f33d)
 
+Storyboard
+==
+
+I created a storyboard describing my user’s experience with the app. This is a great tool to explore how the product will be used in a larger context, as if it was a part of a bigger narrative. It’s an effective and inexpensive way to capture, relate, and explore the app in a real world setting. I created a storyboard describing my user’s experience with the app. This study helps understand the circumstances and the larger context in which the app will be used.
+
+
 
 Sketches
 ==
